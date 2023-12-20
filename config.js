@@ -14,8 +14,8 @@ global.ownernomer = ["6289644048756"]
 global.premium = ['6289644048756']
 
 //—————「 Set Wm 」—————//
-global.packname = 'GabutBot-Reborn'
-global.author = 'ShinySebastian'
+global.packname = 'Lubot'
+global.author = 'Luthfiganteng'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -40,8 +40,8 @@ global.limitawal = {
 }
 
 //—————「 Set Image 」—————//
-global.imageurl = 'https://i.pinimg.com/236x/75/d8/8e/75d88ec4982f34ce10009c9024934be8.jpg'
-global.isLink = `https://youtube.com/@shinysebastianchannel`
+global.imageurl = 'https://telegra.ph/file/f82a7e100758c82e3a123.png'
+global.isLink = `https://www.instagram.com/luth.fi9869/`
 global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 //—————「 Batas Akhir 」—————//
